@@ -6,4 +6,7 @@ matplotlib
 xgboost
 scikit-learn
 
+pickle5
+dill
+
 -e .

@@ -8,5 +8,3 @@ scikit-learn
 
 pickle5
 dill
-
--e .

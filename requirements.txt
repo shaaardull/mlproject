@@ -8,3 +8,5 @@ scikit-learn
 
 #pickle5
 dill
+
+gunicorn==20.0.4

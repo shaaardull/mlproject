@@ -6,6 +6,6 @@ matplotlib
 #xgboost
 scikit-learn
 
-#pickle5
+pickle5
 dill
 
